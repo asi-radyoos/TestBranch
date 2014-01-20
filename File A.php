@@ -2,7 +2,7 @@
 <html>  
   <body>
 <?php
-$txt1="Learn PHP Now";
+$txt1="Learn PHP Now!";
 $txt2="W3Schools.com";
 $cars=array("Volvo","BMW","Toyota");
 echo $txt1;
