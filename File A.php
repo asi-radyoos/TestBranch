@@ -3,7 +3,7 @@
   <body>
 <?php
 $txt1="Learn PHP Now!";
-$txt2="JollyWollet.com";
+$txt2="JollyWollet.com The Best";
 $cars=array("Volvo","BMW","Toyota");
 echo $txt1;
 echo "<br>";
