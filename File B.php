@@ -9,7 +9,7 @@ if (array_key_exists("Volvo",$a))
    }
 else
    {
-   echo "Woo, Key does not exist!";
+   echo "Key does not exist!";
    }
     ?>
   </body>
