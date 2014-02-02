@@ -9,7 +9,7 @@ $cars=array("Volvo","BMW","Toyota","Asics");
 echo $txt1;
 echo "<br>";
 echo "<br>";
-echo "Study PHP at $txt2";
+echo "Study PHP at $txt2 Continue to work";
 echo "<br>";
 echo "My car brand is; {$cars[0]}";
         ?>  
