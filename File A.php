@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>  
   <body>
+  <!-Comment->
 <?php
 $txt1="Learn PHP Now!";
 $txt2="JollyWollet.com The Best";
