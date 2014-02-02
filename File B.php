@@ -12,6 +12,9 @@ else
    {
    echo "Key does not exist!";
    }
-    ?>
+   
+   $Ver = 4544;
+   echo "Version ".$Ver;
+?>
   </body>
 </html>
