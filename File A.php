@@ -5,6 +5,7 @@
 <?php
 $txt1="Learn PHP Now!";
 $txt2="JollyWollet.com The Best";
+$txt3="New text added";
 $cars=array("Volvo","BMW","Toyota","Asics");
 echo $txt1;
 echo "<br>";
