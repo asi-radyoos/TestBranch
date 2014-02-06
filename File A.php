@@ -12,7 +12,7 @@ echo "Radyoos 2014";
 echo "<br>";
 echo "Study PHP at $txt2 Continue to work";
 echo "<br>";
-echo "My car brand is; {$cars[0]}";
+echo "My car brand is; {$cars[0]}.";
         ?>  
   </body>
 </html>
