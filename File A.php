@@ -6,7 +6,7 @@
 $txt1="Learn PHP Now!";
 $txt2="JollyWollet.com The Best";
 $txt3="New text added";
-$cars=array("Volvo","BMW","Toyota","Asics","Renault");
+$cars=array("Volvo","BMW","Toyota","Asics","SaaB", "Fiat", "Renault");
 echo $txt1;
 echo "<br>";
 echo "Radyoos 2014 Feb 15";
