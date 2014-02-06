@@ -13,6 +13,8 @@ echo "<br>";
 echo "Study PHP at $txt2 Continue to work";
 echo "<br>";
 echo "My car brand is; {$cars[0]}";
+echo "<br>";
+echo "-- The End --";
         ?>  
   </body>
 </html>
