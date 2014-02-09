@@ -16,6 +16,7 @@ echo "<br>";
 echo "My car brand is; {$cars[0]}.";
 echo "<br>";
 echo "-- The End --";
+
         ?>  
   </body>
 </html>
