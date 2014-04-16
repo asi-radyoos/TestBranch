@@ -17,6 +17,7 @@ else
    $Ver = 4544;
    echo "Version ".$Ver;
 echo "Cross commit";
+echo " Continue working";
 ?>
   </body>
 </html>
